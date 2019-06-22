@@ -1,5 +1,4 @@
-Программа ["Магический шар"](https://ru.wikipedia
-.org/wiki/Magic_8_ball).
+Программа ["Магический шар"](https://ru.wikipedia.org/wiki/Magic_8_ball).
 
 Написана на языке Ruby, реализует поведение игрушки "Волшебный шар".
 
